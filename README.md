@@ -1,7 +1,7 @@
 <div align="center">
 
 # Om Shete
-### AI & Data Science · Full Stack Developer · SDE
+### AI & Data Science · SDE
 
 **Pune, India** · Graduating 2026 · Open to Internships & Full-Time Roles
 

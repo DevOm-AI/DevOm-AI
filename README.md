@@ -39,6 +39,7 @@
 | **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Deployment** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 
 ---
 
@@ -76,18 +77,22 @@ Real-time face detection that eliminates proxy attendance with zero manual effor
 <tr>
 <td width="50%" valign="top">
 
-### 📚 BookSnatcher
-**Python · Web Scraping**
+### 🔥 Resume Roaster
+**AI-Powered Resume Feedback Tool** · [Live Demo ↗](https://resume-roaster-eight-xi.vercel.app/)
 
-Automated book data aggregator built with Python.
+Upload your resume and get instant, brutally honest AI-generated feedback — roasts your resume so recruiters don't have to.
+
+- **Stack:** React · Flask · Claude AI · Vercel
+- ✅ AI-generated critique on structure, content & impact
+- ✅ Live deployed on Vercel
 
 </td>
 <td width="50%" valign="top">
 
-### 🔗 QRGenie
-**HTML · JavaScript**
+### 📚 BookSnatcher · 🔗 QRGenie
+**Python · Web Scraping · HTML · JavaScript**
 
-QR code generator with a clean, minimal interface.
+Automated book data aggregator + QR code generator with a clean, minimal interface.
 
 </td>
 </tr>

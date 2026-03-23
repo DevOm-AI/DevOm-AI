@@ -1,7 +1,7 @@
 <div align="center">
 
 # Om Shete
-### AI & Data Science · SDE
+### Software Engineer
 
 **Pune, India** · Graduating 2026 · Open to Internships & Full-Time Roles
 

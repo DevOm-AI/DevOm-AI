@@ -170,12 +170,12 @@ Status: ✅ Live
 ## `> cat ./experience.log`
 
 ```
-[2024]  💼  Front-End Dev Intern ──── Shivaaradhya Foundation (NGO), Pune
-[2024]  🏛️  Technical Secretary ───── Student Council, DYPCOEI
-[2024]  🏆  Odoo Hackathon ─────────── PCCOE Pune · via Unstop
-[2024]  📜  Deloitte Data Analytics ── Job Simulation Certificate
+[2025-26]  🏛️  Technical Secretary ───── Student Council, DYPCOEI
+[2025]  💼  Full Stack Dev Intern ──── Shivaaradhya Foundation (NGO), Pune
 [2025]  📜  System Design (Quora) ──── Scaler Certification
 [2025]  📄  Research Published ──────── IJACECT · International Journal
+[2024]  🏆  Odoo Hackathon ─────────── PCCOE Pune · via Unstop
+[2024]  📜  Deloitte Data Analytics ── Job Simulation Certificate
 ```
 
 ---

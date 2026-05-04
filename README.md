@@ -31,7 +31,6 @@ $ whoami
   "college"     : "DYPCOEI — B.E. AI & Data Science (2026)",
   "role"        : "Software Engineer",
   "seeking"     : ["SDE Intern", "Full-Time SDE @ Product Companies"],
-  "target"      : "15–20 LPA  |  Razorpay · Groww · Postman · BrowserStack",
   "research"    : "Published @ IJACECT 2025 — Transformative AI in Drug Discovery",
   "fun_fact"    : "I build systems that think AND systems that sell 🚀"
 }

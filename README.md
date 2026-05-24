@@ -29,8 +29,8 @@ $ whoami
   "handle"      : "@DevOm-AI",
   "location"    : "Pune, India",
   "college"     : "DYPCOEI — B.E. AI & Data Science (2026)",
-  "role"        : "Software Engineer",
-  "seeking"     : ["SDE Intern", "Full-Time SDE @ Product Companies"],
+  "role"        : "Backend Engineering Intern",
+  "company"     : "WhatBytes",
   "research"    : "Published @ IJACECT 2025 — Transformative AI in Drug Discovery",
   "fun_fact"    : "I build systems that think AND systems that sell 🚀"
 }

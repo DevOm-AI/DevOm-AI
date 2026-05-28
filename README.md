@@ -89,27 +89,6 @@ Signal       : Not a fact-checker — measures structural manipulation independe
 
 ---
 
-### [Autonomous ML Reliability & Recovery System](https://github.com/DevOm-AI/Autonomous-ML-Reliability-Recovery-System)
-
-> Self-healing ML system that detects model degradation in production and automatically triggers recovery workflows. Addresses the operational gap most ML projects ignore entirely.
-
-```
-Focus : MLOps · Model monitoring · Automated retraining triggers · Fault recovery
-Signal: Most engineers build models. Few build the system that keeps them working at 2AM.
-```
-
----
-
-### [AI Prediction Quality & Bias Guard System](https://github.com/DevOm-AI/AI-Prediction-Quality-Bias-Guard-System)
-
-> Evaluation layer for ML model outputs — detects prediction drift, quality degradation, and embedded bias before it reaches end users.
-
-```
-Focus : Responsible AI · Bias detection · Prediction confidence scoring · Quality gates
-Signal: Production-awareness of model safety and output reliability
-```
-
----
 
 ### [ShopNPoint](https://github.com/DevOm-AI/ShopNPoint) — Token-Based E-Commerce + Loyalty Engine
 
@@ -119,18 +98,6 @@ Signal: Production-awareness of model safety and output reliability
 Stack  : React · Node.js · Express · MySQL · JWT
 Pattern: Token economy design, referral graph, session management
 Status : Production-ready
-```
-
----
-
-### [Smart API Rate Limiter](https://github.com/DevOm-AI/ciphergate) — Token Bucket + Sliding Window
-
-> Custom rate limiting middleware implementing dual-algorithm enforcement (token bucket + sliding window) with Redis-backed state and configurable per-route policies.
-
-```
-Stack  : Node.js · Express · Redis
-Pattern: Middleware architecture, algorithm-level system design
-Signal : Built from scratch — not a library wrapper
 ```
 
 ---

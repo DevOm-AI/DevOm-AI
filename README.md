@@ -144,7 +144,7 @@ Explored how Generative AI — GANs, VAEs, and Reinforcement Learning — transf
 
 ---
 
-### [REFERRAI: An Adaptive AI Agent for Secure Token-Based Referral Systems]([https://www.doi.org/10.56726/IRJMETS84937](https://drive.google.com/file/d/1z_Ehg57Xk7yKrw3J3l8rgYyqbX7tWvA-/view?usp=drive_link)
+### [REFERRAI: An Adaptive AI Agent for Secure Token-Based Referral Systems](https://drive.google.com/file/d/1z_Ehg57Xk7yKrw3J3l8rgYyqbX7tWvA-/view?usp=drive_link)
 *International Research Journal of Modernization in Engineering Technology and Science (IRJMETS) · Nov 2025 · Impact Factor: 8.187*
 
 Designed a self-healing AI agent for e-commerce referral integrity — combining supervised (Random Forest, XGBoost), unsupervised (Isolation Forest, Autoencoders), and graph-based ML to detect promo-code fraud in real time. Introduced a Token Security Knowledge Graph (TSKG) for reasoning across referral networks, and a risk-aware promo-code masking agent that dynamically selects delivery format (plain, masked, QR, time-limited) based on threat assessment.
@@ -162,10 +162,8 @@ Designed a self-healing AI agent for e-commerce referral integrity — combining
 2025–26   Backend Engineering Intern     WhatBytes
 2025–26   Technical Secretary            Student Council, DYPCOEI
 2025      Full Stack Dev Intern          Shivaaradhya Foundation (NGO), Pune
-2025      Research Published             IJACECT · International Journal
-2025      System Design Certification    Scaler — Quora track
-2024      Odoo Hackathon                 PCCOE Pune · via Unstop
 2024      Data Analytics Simulation      Deloitte Virtual Program
+2023      Python Trainee                 Shri Software Solutions
 ```
 
 ---
@@ -174,9 +172,9 @@ Designed a self-healing AI agent for e-commerce referral integrity — combining
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevOm-AI&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=4d9375&text_color=c9d1d9&bg_color=0d1117&ring_color=4d9375" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevOm-AI&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=4d9375&text_color=c9d1d9&bg_color=0d1117" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOm-AI&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOm-AI&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 
 </div>
 
@@ -195,7 +193,7 @@ Open to SDE · Backend · ML Engineering roles — 2026 · Pune / Remote
 Target: 15–20 LPA · Product-first companies · Teams that ship
 ```
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devom-ai/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Lets_connect-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devom-ai/)
 [![View Portfolio](https://img.shields.io/badge/See_the_work-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devom-ai.vercel.app/)
 
 </div>

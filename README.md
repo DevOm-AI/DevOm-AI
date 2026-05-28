@@ -48,7 +48,6 @@ profile = {
     "location"   : "Pune, India",
     "degree"     : "B.E. — Artificial Intelligence & Data Science (2026)",
     "current"    : "Backend Engineering Intern @ WhatBytes",
-    "research"   : "Published @ IJACECT 2025 — Generative AI in Drug Discovery",
     "interests"  : ["Distributed Systems", "LLM Engineering", "MLOps", "API Design"],
     "looking_for": "SDE / Backend / ML Engineering roles — 2026 grad",
 }
@@ -145,7 +144,7 @@ Explored how Generative AI — GANs, VAEs, and Reinforcement Learning — transf
 
 ---
 
-### [REFERRAI: An Adaptive AI Agent for Secure Token-Based Referral Systems]([https://www.doi.org/10.56726/IRJMETS84937](https://drive.google.com/file/d/1z_Ehg57Xk7yKrw3J3l8rgYyqbX7tWvA-/view?usp=drive_link))
+### [REFERRAI: An Adaptive AI Agent for Secure Token-Based Referral Systems]([https://www.doi.org/10.56726/IRJMETS84937](https://drive.google.com/file/d/1z_Ehg57Xk7yKrw3J3l8rgYyqbX7tWvA-/view?usp=drive_link)
 *International Research Journal of Modernization in Engineering Technology and Science (IRJMETS) · Nov 2025 · Impact Factor: 8.187*
 
 Designed a self-healing AI agent for e-commerce referral integrity — combining supervised (Random Forest, XGBoost), unsupervised (Isolation Forest, Autoencoders), and graph-based ML to detect promo-code fraud in real time. Introduced a Token Security Knowledge Graph (TSKG) for reasoning across referral networks, and a risk-aware promo-code masking agent that dynamically selects delivery format (plain, masked, QR, time-limited) based on threat assessment.

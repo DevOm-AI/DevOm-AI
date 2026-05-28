@@ -136,13 +136,21 @@ Pattern: Real-time inference pipeline, embedded ML application
 <tr>
 <td>
 
-**Transformative AI in Drug Discovery**
+### [Transformative AI in Drug Discovery](https://drive.google.com/file/d/1KCC-F-bkEEZiaEcS77ZTxM8hqIhDB3er/view?usp=drive_link)
 *International Journal of Advanced Computer and Engineering Technology (IJACECT) · Jun 2025*
 
 Explored how Generative AI — GANs, VAEs, and Reinforcement Learning — transforms every stage of the drug discovery pipeline: target identification, lead optimization, and pre-clinical development. Covers prediction accuracy improvements, cost reduction, and personalized medicine at scale.
 
 **DOI:** [10.65521/ijacect.v14i1.597](https://doi.org/10.65521/ijacect.v14i1.597)
 
+---
+
+### [REFERRAI: An Adaptive AI Agent for Secure Token-Based Referral Systems]([https://www.doi.org/10.56726/IRJMETS84937](https://drive.google.com/file/d/1z_Ehg57Xk7yKrw3J3l8rgYyqbX7tWvA-/view?usp=drive_link))
+*International Research Journal of Modernization in Engineering Technology and Science (IRJMETS) · Nov 2025 · Impact Factor: 8.187*
+
+Designed a self-healing AI agent for e-commerce referral integrity — combining supervised (Random Forest, XGBoost), unsupervised (Isolation Forest, Autoencoders), and graph-based ML to detect promo-code fraud in real time. Introduced a Token Security Knowledge Graph (TSKG) for reasoning across referral networks, and a risk-aware promo-code masking agent that dynamically selects delivery format (plain, masked, QR, time-limited) based on threat assessment.
+
+**DOI:** [`10.56726/IRJMETS84937`](https://www.doi.org/10.56726/IRJMETS84937)
 </td>
 </tr>
 </table>

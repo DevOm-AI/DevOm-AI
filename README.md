@@ -1,154 +1,180 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║    ██████╗ ███╗   ███╗    ███████╗██╗  ██╗███████╗████████╗███████╗  ║
-║   ██╔═══██╗████╗ ████║    ██╔════╝██║  ██║██╔════╝╚══██╔══╝██╔════╝  ║
-║   ██║   ██║██╔████╔██║    ███████╗███████║█████╗     ██║   █████╗    ║
-║   ██║   ██║██║╚██╔╝██║    ╚════██║██╔══██║██╔══╝     ██║   ██╔══╝    ║
-║   ╚██████╔╝██║ ╚═╝ ██║    ███████║██║  ██║███████╗   ██║   ███████╗  ║
-║    ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header" width="100%" />
 
 </div>
 
 <div align="center">
 
-```bash
-$ whoami
 ```
+ ██████╗ ███╗   ███╗    ███████╗██╗  ██╗███████╗████████╗███████╗
+██╔═══██╗████╗ ████║    ██╔════╝██║  ██║██╔════╝╚══██╔══╝██╔════╝
+██║   ██║██╔████╔██║    ███████╗███████║█████╗     ██║   █████╗  
+██║   ██║██║╚██╔╝██║    ╚════██║██╔══██║██╔══╝     ██║   ██╔══╝  
+╚██████╔╝██║ ╚═╝ ██║    ███████║██║  ██║███████╗   ██║   ███████╗
+ ╚═════╝ ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚══════╝
+```
+
+### Building systems that scale, adapt, and think.
 
 </div>
 
-```json
-{
-  "name"        : "Om Shete",
-  "handle"      : "@DevOm-AI",
-  "location"    : "Pune, India",
-  "college"     : "DYPCOEI — B.E. AI & Data Science (2026)",
-  "role"        : "Backend Engineering Intern",
-  "company"     : "WhatBytes",
-  "research"    : "Published @ IJACECT 2025 — Transformative AI in Drug Discovery",
-  "fun_fact"    : "I build systems that think AND systems that sell 🚀"
-}
-```
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devom-ai/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://devom-ai.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om.shete.developer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om_Shete-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devom-ai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devom--ai.vercel.app-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devom-ai.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-om.shete.developer@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om.shete.developer@gmail.com)
+[![Research](https://img.shields.io/badge/Published-IJACECT_2025-%236366f1?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.65521/ijacect.v14i1.597)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DevOm-AI&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `> tech_stack --list`
+## Who Am I
+
+> Backend-focused engineer with a research background in **Generative AI** and a bias toward building things that actually work in production.
+>
+> I write systems end-to-end — REST APIs, ML pipelines, real-time data flows — and I care about the architecture behind them as much as the code.
+>
+> Currently a **Backend Engineering Intern at WhatBytes**, finishing a B.E. in AI & Data Science at DYPCOEI (2026). I've shipped production features, published peer-reviewed research, and built tools people actually use.
+
+```python
+profile = {
+    "name"       : "Om Shete",
+    "location"   : "Pune, India",
+    "degree"     : "B.E. — Artificial Intelligence & Data Science (2026)",
+    "current"    : "Backend Engineering Intern @ WhatBytes",
+    "research"   : "Published @ IJACECT 2025 — Generative AI in Drug Discovery",
+    "interests"  : ["Distributed Systems", "LLM Engineering", "MLOps", "API Design"],
+    "looking_for": "SDE / Backend / ML Engineering roles — 2026 grad",
+}
+```
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-| Layer | Stack |
+| Domain | Tools |
 |:---|:---|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white) |
-| **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) |
-| **Deploy** | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **ML / AI** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Groq](https://img.shields.io/badge/Groq_API-F54E2C?style=flat-square&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Infra / DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
+| **System Design** | Rate Limiting · JWT Auth · REST · Microservices · Event-Driven Architecture |
 
 </div>
 
 ---
 
-## `> ls ./projects`
+## Projects
+
+### [NoiseLens](https://github.com/DevOm-AI/NoiseLens) — Forensic Content Manipulation Analyzer
+
+> A full-stack AI pipeline that deconstructs psychological manipulation in online content — tweets, headlines, reel captions — scoring it across 9 vectors (outrage engineering, fear exploitation, tribal framing, false urgency, and more).
+
+```
+Architecture : React SPA → FastAPI → Groq (llama-3.3-70b) → Structured JSON output
+Design choice: Temp = 0.2 for analytical determinism. JSON schema validated on every response.
+Stack        : React · Vite · TailwindCSS · FastAPI · Groq API · Framer Motion
+Signal       : Not a fact-checker — measures structural manipulation independent of truth value
+```
+
+---
+
+### [Autonomous ML Reliability & Recovery System](https://github.com/DevOm-AI/Autonomous-ML-Reliability-Recovery-System)
+
+> Self-healing ML system that detects model degradation in production and automatically triggers recovery workflows. Addresses the operational gap most ML projects ignore entirely.
+
+```
+Focus : MLOps · Model monitoring · Automated retraining triggers · Fault recovery
+Signal: Most engineers build models. Few build the system that keeps them working at 2AM.
+```
+
+---
+
+### [AI Prediction Quality & Bias Guard System](https://github.com/DevOm-AI/AI-Prediction-Quality-Bias-Guard-System)
+
+> Evaluation layer for ML model outputs — detects prediction drift, quality degradation, and embedded bias before it reaches end users.
+
+```
+Focus : Responsible AI · Bias detection · Prediction confidence scoring · Quality gates
+Signal: Production-awareness of model safety and output reliability
+```
+
+---
+
+### [ShopNPoint](https://github.com/DevOm-AI/ShopNPoint) — Token-Based E-Commerce + Loyalty Engine
+
+> Gamified loyalty economy driving repeat purchases through a referral and token system. JWT-secured REST API with scalable relational schema.
+
+```
+Stack  : React · Node.js · Express · MySQL · JWT
+Pattern: Token economy design, referral graph, session management
+Status : Production-ready
+```
+
+---
+
+### [Smart API Rate Limiter](https://github.com/DevOm-AI/ciphergate) — Token Bucket + Sliding Window
+
+> Custom rate limiting middleware implementing dual-algorithm enforcement (token bucket + sliding window) with Redis-backed state and configurable per-route policies.
+
+```
+Stack  : Node.js · Express · Redis
+Pattern: Middleware architecture, algorithm-level system design
+Signal : Built from scratch — not a library wrapper
+```
+
+---
+
+### [Resume Roaster](https://github.com/DevOm-AI/resume-roaster) — AI Resume Critique · [↗ Live](https://resume-roaster-eight-xi.vercel.app/)
+
+> Upload a resume, receive structured AI feedback on content, structure, and impact. Claude AI under the hood with a clean React frontend deployed on Vercel.
+
+```
+Stack  : React · Flask · Claude AI · Vercel
+Status : Live — people actually use this
+```
+
+---
+
+### [Face Recognition Attendance System](https://github.com/DevOm-AI/Face-Recognition-Attendance-System)
+
+> Real-time face detection pipeline eliminating proxy attendance. TensorFlow + OpenCV detection with auto-generated CSV logs and Flask admin interface.
+
+```
+Stack  : Python · TensorFlow · OpenCV · Flask · SQLite
+Pattern: Real-time inference pipeline, embedded ML application
+```
+
+---
+
+### [LedgeFlow](https://github.com/DevOm-AI/LedgeFlow) · [Finance Tracker](https://github.com/DevOm-AI/finance-tracker-backend) · [Healthcare Backend](https://github.com/DevOm-AI/healthcare-backend)
+
+> Domain-specific backend systems demonstrating schema design, business logic, and API architecture across fintech and healthcare verticals.
+
+---
+
+## Research
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🛒 `ShopNPoint`
-**Token-Based E-Commerce + Loyalty Engine**
+**Transformative AI in Drug Discovery**
+*International Journal of Advanced Computer and Engineering Technology (IJACECT) · Jun 2025*
 
-Referral system and gamified token economy that drives repeat purchases and organic growth. Scalable architecture with JWT-secured REST API.
+Explored how Generative AI — GANs, VAEs, and Reinforcement Learning — transforms every stage of the drug discovery pipeline: target identification, lead optimization, and pre-clinical development. Covers prediction accuracy improvements, cost reduction, and personalized medicine at scale.
 
-```
-Stack:  React · Node.js · Express · MySQL · JWT
-Status: ✅ Production-ready
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 `FRAS`
-**Face Recognition Attendance System**
-
-Real-time face detection eliminates proxy attendance. Integrated with TensorFlow + OpenCV pipeline and auto-generates CSV logs.
-
-```
-Stack:  Python · OpenCV · TensorFlow · Flask · SQLite
-Status: ✅ Deployed
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📍 `Siteboxd`
-**Letterboxd-Inspired Location Logger**
-
-Full-stack app with microservice architecture — Flask backend, Express API, Prisma ORM, containerized with Docker + Nginx.
-
-```
-Stack:  React · Node.js · Flask · Prisma · Docker · Nginx
-Status: ✅ Built from scratch
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🔥 `Resume Roaster` · [↗ Live](https://resume-roaster-eight-xi.vercel.app/)
-**AI-Powered Resume Feedback**
-
-Upload a resume, get brutally honest AI critique on structure, content, and impact. Claude AI under the hood.
-
-```
-Stack:  React · Flask · Claude AI · Vercel
-Status: ✅ Live on Vercel
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ `Smart API Rate Limiter`
-**Token Bucket + Sliding Window Algorithm**
-
-Custom rate limiting middleware implementing multiple algorithms with Redis-backed storage and configurable per-route policies.
-
-```
-Stack:  Node.js · Express · Redis
-Status: ✅ System Design Focus
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 `Portfolio` · [↗ Live](https://devom-ai.vercel.app/)
-**Personal Dev Portfolio**
-
-Clean, fast portfolio showcasing projects, stack, and research — deployed on Vercel.
-
-```
-Stack:  React · Vercel
-Status: ✅ Live
-```
+**DOI:** [10.65521/ijacect.v14i1.597](https://doi.org/10.65521/ijacect.v14i1.597)
 
 </td>
 </tr>
@@ -156,37 +182,27 @@ Status: ✅ Live
 
 ---
 
-## `> cat ./research.txt`
-
-> **📄 Transformative AI in Drug Discovery**
-> *International Journal of Advanced Computer and Engineering Technology (IJACECT) · Jun 2025*
->
-> Explored how **Generative AI** — GANs, VAEs, and Reinforcement Learning — transforms every stage of drug discovery: from target identification and lead optimization to pre-clinical development. Covers improved prediction accuracy, cost reduction, and personalized medicine at scale.
->
-> **DOI:** [`10.65521/ijacect.v14i1.597`](https://doi.org/10.65521/ijacect.v14i1.597)
-
----
-
-## `> cat ./experience.log`
+## Experience
 
 ```
-[2025-26]  🏛️  Technical Secretary ───── Student Council, DYPCOEI
-[2025]  💼  Full Stack Dev Intern ──── Shivaaradhya Foundation (NGO), Pune
-[2025]  📜  System Design (Quora) ──── Scaler Certification
-[2025]  📄  Research Published ──────── IJACECT · International Journal
-[2024]  🏆  Odoo Hackathon ─────────── PCCOE Pune · via Unstop
-[2024]  📜  Deloitte Data Analytics ── Job Simulation Certificate
+2025–26   Backend Engineering Intern     WhatBytes
+2025–26   Technical Secretary            Student Council, DYPCOEI
+2025      Full Stack Dev Intern          Shivaaradhya Foundation (NGO), Pune
+2025      Research Published             IJACECT · International Journal
+2025      System Design Certification    Scaler — Quora track
+2024      Odoo Hackathon                 PCCOE Pune · via Unstop
+2024      Data Analytics Simulation      Deloitte Virtual Program
 ```
 
 ---
 
-## `> ./github_stats.sh`
+## GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DevOm-AI&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=4d9375&text_color=c9d1d9&bg_color=0d1117&ring_color=4d9375" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DevOm-AI&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=4d9375&text_color=c9d1d9&bg_color=0d1117&ring_color=4d9375" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOm-AI&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOm-AI&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -201,16 +217,13 @@ Status: ✅ Live
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════╗
-║  STATUS: Open to SDE Internships & Full-Time · 2026  ║
-║  TARGET: 15–20 LPA  |  Product Companies             ║
-║  STACK:  Full-Stack · ML/AI · System Design          ║
-╚═══════════════════════════════════════════════════╝
+Open to SDE · Backend · ML Engineering roles — 2026 · Pune / Remote
+Target: 15–20 LPA · Product-first companies · Teams that ship
 ```
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devom-ai/)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://devom-ai.vercel.app/)
-
-*Let's build something great together.*
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devom-ai/)
+[![View Portfolio](https://img.shields.io/badge/See_the_work-Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devom-ai.vercel.app/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%" />
